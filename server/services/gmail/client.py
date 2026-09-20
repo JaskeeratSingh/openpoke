@@ -217,7 +217,9 @@ def initiate_connect(payload: GmailConnectPayload, settings: Settings) -> JSONRe
     _clear_cached_profile(user_id)
     try:
         client = _get_composio_client(settings)
-        req = client.connected_accounts.initiate(user_id=user_id, auth_config_id=auth_config_id)
+        # Composio retired initiate() oopsie
+        connect = getattr(client.connected_accounts, "link", None) or client.connected_accounts.initiate
+        req = connect(user_id=user_id, auth_config_id=auth_config_id)
         data = {
             "ok": True,
             "redirect_url": getattr(req, "redirect_url", None) or getattr(req, "redirectUrl", None),

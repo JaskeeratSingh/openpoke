@@ -115,7 +115,9 @@ class ImportantEmailWatcher:
             logger.debug("Gmail not connected; skipping importance poll")
             return
 
-        query = f"label:INBOX newer_than:{self._lookback_minutes}m"
+        # Gmail's newer_than: only accepts d/m/y (m means months), so bound the window with an epoch
+        lookback_epoch = int(poll_started_at.timestamp()) - self._lookback_minutes * 60
+        query = f"label:INBOX after:{lookback_epoch}"
         arguments = {
             "query": query,
             "include_payload": True,

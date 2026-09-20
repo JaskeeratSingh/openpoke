@@ -1,9 +1,14 @@
 """Simple agent roster management - just a list of agent names."""
 
 import json
-import fcntl
 import time
 from pathlib import Path
+
+# just to remove the error when you run on windows
+try:
+    import fcntl
+except ModuleNotFoundError:
+    fcntl = None
 
 from ...logging_config import logger
 
@@ -42,12 +47,14 @@ class AgentRoster:
 
                 # Open file and acquire exclusive lock
                 with open(self._roster_path, 'w') as f:
-                    fcntl.flock(f.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+                    if fcntl is not None:
+                        fcntl.flock(f.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
                     try:
                         json.dump(self._agents, f, indent=2)
                         return
                     finally:
-                        fcntl.flock(f.fileno(), fcntl.LOCK_UN)
+                        if fcntl is not None:
+                            fcntl.flock(f.fileno(), fcntl.LOCK_UN)
 
             except BlockingIOError:
                 # Lock is held by another process
