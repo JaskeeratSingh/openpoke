@@ -1,0 +1,363 @@
+<conversation_summary>Summary generated: 2026-10-06 20:00 (America/Vancouver)
+
+Timeline &amp; Commitments:
+- 2026-09-30 — ACME Corp invoice INV-8291, website work, $4,200. Alex Chen (ACME accountant, alex.chen@acmecorp.com) confirms ACME scheduled payment by wire on 2026-10-03; awaiting arrival confirmation. Status: payment scheduled/awaiting receipt.
+- 2026-10-03 — Vercel offer decision due; accepted terms ($165k base). Priya Nair (Vercel recruiter) confirms start date can move to 2027-01-06 provided user signs by 2026-10-03. Status: confirmed start date/verify signing.
+- 2026-10-05 — Resume due to Dr. James Okoye for Wesbrook Scholarship reference; overdue as of 2026-10-06. Status: overdue/awaiting send.
+- 2026-10-06 — Sent Alex Chen ACME website redesign quote Q-114: $6,800, 5 weeks. Status: sent/awaiting reply.
+- 2026-10-07 18:00 — MATH 221 weekly study group with Daniel Kim, IKB room 185; Wednesdays 18:00. Status: booked; first occurrence.
+- 2026-10-08 06:30 — Linda’s knee surgery at VGH, Jim Pattison Pavilion; check-in 06:30; no food after midnight; user drives; discharge expected by 16:00. Status: confirmed.
+- 2026-10-08 17:00 — Pick up Linda’s prescriptions at London Drugs on Broadway. Status: arranged.
+- 2026-10-08 19:00 — Elena Brooks’ community choir rehearsal at St. Andrew’s Hall; recurring Thursdays 19:00. Status: next occurrence.
+- 2026-10-09 11:00 — HCI lab RA interview with Prof. Elena Ruiz at ICICS 104; 10 hrs/week; send unofficial transcript beforehand. Status: scheduled; transcript pending.
+- 2026-10-09 13:00 — Blood donation at Canadian Blood Services, Oak Street; O negative on file; eat full meal beforehand; bring photo ID. Status: booked.
+- 2026-10-09 — Simplii transfer $1,127 to savings account ending 1622. Status: scheduled.
+- 2026-10-09 — Birthday dinner for Camille Carvalho at Mak N Ming; 8 people. Status: confirmed.
+- 2026-10-09 — Vet visit for Pepper (friend’s rabbit) at Dunbar Clinic. Status: confirmed.
+- 2026-10-09 19:30 — Movie night with Grace Kim at Scotiabank Theatre; tickets bought. Status: confirmed; check overlap with Camille dinner/Pepper vet.
+- 2026-10-10 10:00 — Piano lessons with Linda Park begin; Saturdays 10:00; $45/lesson. Status: booked; tight timing with apple picking 11:00.
+- 2026-10-10 11:00 — Apple picking at Krause Berry Farms, Langley; 4 people. Status: confirmed.
+- 2026-10-11 10:00 — Squash with James Liu at UBC Birdcoop; Sundays 10:00. Status: booked; conflicts with Save-On-Foods 09:00–11:00.
+- 2026-10-11 — Indigo order #708-3967 (kettle) arrives. Status: shipped.
+- 2026-10-11 — Potluck with Esme Okonkwo (book club friend); awaiting details. Status: pending; date conversion to verify.
+- 2026-10-11 — Phoebe Bridgers tickets (2, Orpheum, row K), listed on StubHub SH-88213 at $140 each; buyer offered $250 for both tickets. Status: offer pending user acceptance.
+- 2026-10-12 16:00 — Engagement photo shoot for Tom Becker &amp; Ana Silva at Stanley Park Second Beach, includes 30-min Lost Lagoon extension (+$75); total $475; $100 deposit received. Status: confirmed.
+- 2026-10-12 19:00 — Guitar lessons with Omar Haddad begin; Mondays 19:00; $50 each. Status: booked; conflicts with Kitsilano Community Band 19:30.
+- 2026-10-13 08:10 — Carpool with Mark Okafor; Mark drives from Burnaby on Tuesdays; user drives Thursdays. Status: arranged.
+- 2026-10-13 17:00 — STAT 200 tutoring with Alex Rivera (first of two Tuesday 17:00 sessions). Status: booked.
+- 2026-10-13 — Wealth Co-op savings account ending 8833 opened; $424 transfer set. Status: scheduled.
+- 2026-10-14 10:30 — Appointment with Dr. Devries at Point Grey Medical. Status: booked.
+- 2026-10-14 — Maya’s birthday; gift shortlist: Claymates pottery class voucher $85 (4-week wheel-throwing course) or Osprey trail daypack $95; budget ~$100; no leather. Status: pending selection.
+- 2026-10-15 — Wesbrook Scholarship application: 800-word essay due; reference letter requested from Dr. James Okoye. Status: started/pending.
+- 2026-10-16 — Sport Chek anniversary sale starts; alert set. Status: alert scheduled.
+- 2026-10-16 15:00 — Interview with Amara Lindqvist at Kettle Creative. Status: scheduled.
+- 2026-10-17 07:00–15:00 — Vancouver civic election polling station volunteer shift. Status: signed up; conflicts with Dr. Eze at 10:30.
+- 2026-10-17 10:30 — Appointment with Dr. Eze at Main Street Health. Status: booked.
+- 2026-10-18 10:30 — Appointment with Dr. Duarte at West End Medical. Status: booked; check same-day Canucks/Fit4Less conflict.
+- 2026-10-18 — Canucks vs. Oilers tickets: 2, Rogers Arena, section 309. Status: bought.
+- 2026-10-18 — Fit4Less last billing after 30-day cancellation notice sent. Status: final billing expected.
+- 2026-10-20 17:00 — STAT 200 tutoring with Alex Rivera (second session). Status: booked.
+- 2026-10-20 — Car insurance renewal quote from Dana Whitfield (Westland Insurance) for ICBC coverage on 2018 Honda Civic, plate KP4 21R: $1,380/year. Status: quote received/pending renewal.
+- 2026-10-20 — PyCon Canada talk confirmation deadline; must confirm 30-minute slot for 2026-11-29 in Toronto. Status: accepted/pending confirmation.
+- 2026-10-22 10:00 — Linda’s knee rehab with physiotherapist Dr. Leung at Broadway Physio; first session. Status: booked.
+- 2026-10-23 10:30 — Interview with Hamid Holm at Quarry Media. Status: scheduled.
+- 2026-10-24 — Rehearsal dinner for Daniel &amp; Chloe at Miku; user is at table 4. Chloe Reyes emailed about seating; awaiting confirmation that chart is final. Status: pending.
+- 2026-10-25 — BIOL 112 project draft due; plan with Adaeze Byrne. Status: pending.
+- 2026-10-25 — Parents’ anniversary menu choices due (Hannah Wu). Status: pending.
+- 2026-10-25 — Brother Daniel’s wedding at Hart House; user is best man; revised 4-min speech (toned down roast, added toast to Daniel and fiancée Chloe; originally built around 2019 Garibaldi camping trip). Status: speech revised/drafted.
+- 2026-10-27 — Home Depot order #705-9513 (curtains) arrives. Status: shipped.
+- 2026-10-30 — HCI reading group paper choice due for Prof. Elena Ruiz. Status: pending.
+- 2026-11-01 — Rogers plan effective upgrade to Infinite 50GB ($75/month); cancellable before then at no cost. Status: completed; verify intent after “sorry wrong chat.”
+- 2026-11-02 11:00 — Headshot session for Joelle Tremblay at Jericho Beach; $180. Status: booked.
+- 2026-11-05 — Nkechi Byrne’s birthday dinner at St. Lawrence; 7 people. Status: confirmed.
+- 2026-11-05 — IRCC enrolment confirmation letter for W30-5518 due (within 30 days of 2026-10-06); requested from UBC registrar. Status: pending.
+- 2026-11-06 — HCI reading group presentation by user (Prof. Elena Ruiz). Status: scheduled.
+- 2026-11-07 — Keiko Carvalho’s birthday dinner at Anh and Chi; 13 people. Status: confirmed.
+- 2026-11-08 18:00 — Parents’ 30th anniversary dinner at Seasons in the Park; 40 guests; $500 deposit paid; coordinator Hannah Wu; projector confirmed for slideshow. Status: booked.
+- 2026-11-17 — Air Canada flight to Porto; confirmation 93S48B. Status: booked.
+- 2026-11-18 — WestJet flight to Chicago; confirmation YJ7LMD. Status: booked.
+- 2026-11-19 — Viewing at 1402 Birch Rd with Ilse Watanabe (property manager); conflict with prior Thandiwe Chowdhury entry 2026-10-02 to verify. Status: scheduled.
+- 2026-11-22 — Priya Sharma’s wedding in Surrey; RSVP’d yes with a plus one. Status: confirmed.
+- 2026-11-23 — Fortis bill for August $7,790 due; account 7628. Status: pending payment.
+- 2026-11-23 — Japanese Breakfast concert at Sula; 2 tickets, row D. Status: confirmed.
+- 2026-11-25 — Men I Trust concert at Sula; 2 tickets, row J. Status: confirmed.
+- 2026-11-25 — Novus bill for October $1,519 due; account 4487. Status: pending payment.
+- 2026-11-26 — PHYS 117 project draft due; plan with Maeve Carvalho. Status: pending.
+- 2026-11-27 — CHIN 131 project draft due; plan with Soren Carvalho. Status: pending.
+- 2026-11-29 — PyCon Canada talk “Testing LLM Apps Without Losing Your Mind,” 30-minute slot, Toronto; speakers get $500 travel stipend. Status: accepted; confirm by 2026-10-25.
+- 2026-11-30 — Hozier concert at Rogers Arena; 2 tickets, section 112, row F. Status: bought.
+- 2026-12-01 — Study permit expires; IRCC extension submitted (W30-5518; biometrics valid; processing ~90 days). CPSC 110 TA decisions also expected. Status: submitted/awaiting.
+- 2026-12-03 — Shaw bill for August $4,852 due; account 9794. Status: pending payment.
+- 2026-12-04 — Flair flight to Lisbon; confirmation GQW6E2. Status: booked.
+- 2026-12-07 — Anouk Lindqvist’s birthday dinner at Anh and Chi; 20 people. Status: confirmed.
+- 2026-12-09 — Mochi (friend’s rabbit) checkup at Dunbar Clinic. Status: booked.
+- 2026-12-11 16:30 — Dunbar Clinic appointment with Dr. Fernandez. Status: booked.
+- 2026-12-17 — Structube order #402-9866 (rice cooker) arrives. Status: ordered.
+- 2026-12-18 09:00 — Physio appointment with Dr. Marino at West End Medical. Status: booked.
+- 2026-12-18 — Viewing at 35 Spruce Ave with Farhan Rossi (property manager); check timing vs physio. Status: scheduled.
+- 2026-12-20 — Indigo order #568-2611 (air fryer) arrives. Status: shipped/ordered.
+- 2026-12-21 — COMM 293 project draft due; plan with Kofi Mehta. Status: pending.
+- 2026-12-22 — Structube order #291-6637 (blender) arrives. Status: confirmed.
+- 2026-12-23 — Sunniva Eze’s birthday dinner at Anh and Chi; 4 people. Status: confirmed.
+- Date TBD — Stanley Cup final watch party; back room at Donnelly’s pub booked. Status: date/time pending.
+
+Pending &amp; Follow-ups:
+- Due 2026-09-30 (overdue) — ACME Corp INV-8291 $4,200; Alex Chen (alex.chen@acmecorp.com) says payment scheduled by wire on 2026-10-03; awaiting arrival confirmation.
+- Due 2026-10-03 (deadline) — Vercel start date move to 2027-01-06 subject to signing by 2026-10-03 per Priya Nair; confirm signing status.
+- Due 2026-10-05 (overdue) — Send resume to Dr. James Okoye for Wesbrook Scholarship reference.
+- Due 2026-10-06 or ongoing — ACME website redesign quote Q-114 ($6,800, 5 weeks) sent to Alex Chen; awaiting reply.
+- Due 2026-10-07 18:00 — First MATH 221 study group with Daniel Kim at IKB 185.
+- Due 2026-10-08 06:30 — Linda surgery; drive; no food after midnight.
+- Due 2026-10-08 17:00 — Pick up Linda’s prescriptions at London Drugs Broadway.
+- Due before 2026-10-09 11:00 — Send unofficial transcript to Prof. Elena Ruiz for HCI RA interview at ICICS 104.
+- Due 2026-10-09 13:00 — Blood donation; O negative; full meal beforehand; photo ID.
+- Due 2026-10-09 — Verify Simplii $1,127 transfer to account 1622.
+- Due 2026-10-09 — Camille birthday dinner at Mak N Ming; 8 people.
+- Due 2026-10-09 — Pepper vet at Dunbar Clinic.
+- Due 2026-10-09 19:30 — Movie night with Grace Kim; check overlap with Camille dinner/Pepper vet.
+- Due 2026-10-10 10:00 — First piano lesson with Linda Park; $45/lesson.
+- Due 2026-10-10 11:00 — Apple picking at Krause Berry Farms; 4 people.
+- Due 2026-10-11 10:00 — Squash with James Liu; conflicts with Save-On-Foods 09:00–11:00.
+- Due 2026-10-11 — Track Indigo kettle #708-3967.
+- Due 2026-10-11 — Esme potluck; awaiting details; verify date.
+- Due 2026-10-11 — Decide on StubHub SH-88213 offer: $250 for both Phoebe Bridgers tickets (2, Orpheum, row K).
+- Due 2026-10-12 16:00 — Tom/Ana engagement shoot; total $475 ($400 + $75 Lost Lagoon), $100 deposit received.
+- Due 2026-10-13 08:10 — Carpool with Mark Okafor (Mark drives from Burnaby).
+- Due 2026-10-13 17:00 — STAT 200 tutoring with Alex Rivera.
+- Due 2026-10-13 — Verify Wealth Co-op $424 transfer to savings 8833.
+- Due 2026-10-14 10:30 — Point Grey Medical with Dr. Devries.
+- Due 2026-10-14 — Choose/buy Maya’s birthday gift (Claymates wheel-throwing voucher $85 fits; Osprey trail daypack $95; budget ~$100; no leather).
+- Due 2026-10-15 — Wesbrook Scholarship 800-word essay; Dr. James Okoye reference.
+- Due 2026-10-16 — Sport Chek anniversary sale starts; alert set.
+- Due 2026-10-16 15:00 — Amara Lindqvist interview at Kettle Creative.
+- Due 2026-10-17 07:00–15:00 — Vancouver civic election poll volunteering; conflict with Dr. Eze 10:30; reschedule/confirm.
+- Due 2026-10-17 10:30 — Dr. Eze at Main Street Health.
+- Due 2026-10-18 10:30 — West End Medical with Dr. Duarte.
+- Due 2026-10-18 — Canucks vs. Oilers, section 309.
+- Due 2026-10-18 — Confirm Fit4Less cancellation/final billing.
+- Due 2026-10-20 17:00 — STAT 200 tutoring with Alex Rivera (second session).
+- Due 2026-10-20 — Confirm ICBC renewal via Dana Whitfield; $1,380/year; plate KP4 21R.
+- Due 2026-10-20 — Confirm PyCon Canada talk slot for 2026-11-29 Toronto (30-min, $500 travel stipend).
+- Due 2026-10-22 10:00 — Linda knee rehab with Dr. Leung at Broadway Physio.
+- Due 2026-10-23 10:30 — Quarry Media interview with Hamid Holm.
+- Due 2026-10-24 — Rehearsal dinner at Miku; user at table 4; Chloe Reyes to confirm final seating chart.
+- Due 2026-10-25 — BIOL 112 draft with Adaeze Byrne.
+- Due 2026-10-25 — Parents’ anniversary menu choices; Hannah Wu.
+- Due 2026-10-25 — Best man speech for Daniel’s wedding at Hart House; confirm delivery (4 min; revised; toast to Daniel and Chloe).
+- Due 2026-10-27 — Track Home Depot curtains #705-9513.
+- Due 2026-10-30 — Send HCI reading group paper choice to Prof. Elena Ruiz (present 2026-11-06).
+- Due 2026-11-01 — Rogers plan upgrade to Infinite 50GB ($75/month); can cancel before then; verify after user said “sorry wrong chat.”
+- Due 2026-11-02 11:00 — Joelle Tremblay headshot at Jericho Beach; $180.
+- Due 2026-11-05 — Nkechi Byrne birthday at St. Lawrence; 7 people.
+- Due 2026-11-05 — Upload IRCC enrolment confirmation letter for W30-5518 (within 30 days of 2026-10-06); requested from UBC registrar.
+- Due 2026-11-06 — Present paper at HCI reading group (Prof. Elena Ruiz).
+- Due 2026-11-07 — Keiko Carvalho birthday at Anh and Chi; 13 people.
+- Due 2026-11-08 18:00 — Parents’ anniversary; 40 guests; $500 deposit; Hannah Wu; projector confirmed.
+- Due 2026-11-17 — Air Canada flight to Porto; 93S48B.
+- Due 2026-11-18 — WestJet flight to Chicago; YJ7LMD.
+- Due 2026-11-19 — Viewing 1402 Birch Rd with Ilse Watanabe; resolve conflict with Thandiwe Chowdhury 2026-10-02.
+- Due 2026-11-22 — Priya Sharma wedding Surrey; RSVP yes plus one.
+- Due 2026-11-23 — Pay/verify Fortis bill $7,790; account 7628.
+- Due 2026-11-23 — Japanese Breakfast at Sula; 2 tickets row D.
+- Due 2026-11-25 — Men I Trust at Sula; 2 tickets row J.
+- Due 2026-11-25 — Pay/verify Novus bill $1,519; account 4487.
+- Due 2026-11-26 — PHYS 117 draft with Maeve Carvalho.
+- Due 2026-11-27 — CHIN 131 draft with Soren Carvalho.
+- Due 2026-11-29 — Deliver PyCon Canada talk in Toronto (30 min).
+- Due 2026-11-30 — Hozier concert at Rogers Arena; 2 tickets, section 112, row F.
+- Due 2026-12-01 — Await IRCC study permit extension W30-5518; permit expires.
+- Due 2026-12-01 — Await CPSC 110 TA decision.
+- Due 2026-12-03 — Pay/verify Shaw bill $4,852; account 9794.
+- Due 2026-12-04 — Flair flight to Lisbon; GQW6E2.
+- Due 2026-12-07 — Anouk Lindqvist birthday at Anh and Chi; 20 people.
+- Due 2026-12-09 — Mochi checkup at Dunbar Clinic.
+- Due 2026-12-11 16:30 — Dunbar Clinic with Dr. Fernandez.
+- Due 2026-12-17 — Track Structube rice cooker #402-9866.
+- Due 2026-12-18 09:00 — West End Medical physio with Dr. Marino.
+- Due 2026-12-18 — Viewing 35 Spruce Ave with Farhan Rossi; check timing vs physio.
+- Due 2026-12-20 — Track Indigo air fryer #568-2611.
+- Due 2026-12-21 — COMM 293 draft with Kofi Mehta.
+- Due 2026-12-22 — Track Structube blender #291-6637.
+- Due 2026-12-23 — Sunniva Eze birthday dinner at Anh and Chi; 4 people.
+- Pending — DoorDash delivery rider application submitted; background check in progress.
+- Pending — Rogers billing dispute RG-10442 for $64 roaming charge on September bill; supervisor to review within 5 business days (from ~2026-10-06); user must supply dates in Canada.
+- Pending — Provide Grace Liu (CPA) GST/HST number and home office square footage to finish 2025 return; T4A slips sent (Brightline Media $12,400; Northwind $6,900); business receipts sent; Red Cross receipts ($50, $50, $120).
+- Pending — FHSA at Wealthsimple WS-4410 opened; $8,000 room for 2026; nothing deposited yet.
+- Pending — Chase Northfield Labs invoice INV-1896, $424; emailed Svetlana Byrne; awaiting payment.
+- Pending — Chase Ferngully Design invoice INV-1164, $3,265; emailed Ottilie Adeyemi; awaiting payment.
+- Pending — Review Saltmarsh Media travel insurance quote $2,918/year (travel medical Chicago); broker Ayesha Okonkwo; compare quotes.
+- Pending — Chase Orchard Analytics invoice INV-6234, $8,122; emailed Lorenza Carvalho; awaiting payment.
+- Pending — Resolve 1402 Birch Rd contact/date conflict: Ilse Watanabe 2026-11-19 vs Thandiwe Chowdhury 2026-10-02.
+- Pending — Review Silverfin tenant insurance quote $7,074/year; broker Declan Novak; clarify scope (Oaxaca context).
+- Pending — Review Pinewire tenant insurance quote $8,237/year; broker Olufemi Lindqvist; clarify scope (Montreal context).
+- Pending — Review Brickyard Digital contents cover quote $8,370/year; broker Tamsin Haddadi.
+- Pending — Follow up TD dispute case TD-66120 for duplicate $58.20 Uber Eats charge on Visa ending 4417.
+- Sent — Emailed Svetlana Ivanova about podcast recommendation; awaiting reply.
+- Sent — Emailed Zainab Byrne about returning borrowed camera; awaiting reply/action.
+- Sent — Emailed Emeka Devries about returning borrowed camera; awaiting reply/action.
+- Sent — Emailed Esme Okonkwo about potluck; awaiting details.
+- Sent — Emailed Lorenza Carvalho re INV-6234; awaiting payment.
+- Pending — Verify potluck “Sunday” conversion to 2026-10-11 if year differs.
+- Pending — Confirm Stanley Cup final watch party date/time at Donnelly’s back room.
+- Pending — Resolve guitar lesson vs Kitsilano Community Band Monday conflict (19:00 vs 19:30).
+- Pending — Await user decision on Maya gift (Claymates wheel-throwing voucher fits).
+
+Routines &amp; Recurring:
+- Tuesdays 08:10 — Carpool with Mark Okafor; Mark drives from Burnaby.
+- Thursdays — Carpool with Mark Okafor; user drives.
+- Wednesdays 18:00 — MATH 221 study group with Daniel Kim at IKB room 185; booked.
+- Thursdays 19:00 — Elena Brooks’ community choir rehearsal at St. Andrew’s Hall; next 2026-10-08.
+- Saturdays 10:00 — Piano lessons with Linda Park; $45 per lesson; booked; next 2026-10-10.
+- Sundays 10:00 — Squash with James Liu at UBC Birdcoop; booked; next 2026-10-11; conflicts with Save-On-Foods 09:00–11:00.
+- Sundays 09:00–11:00 — Weekly Save-On-Foods grocery order; usual list saved.
+- Mondays 19:00 — Guitar lessons with Omar Haddad; $50 each; booked; next 2026-10-12; conflicts with Kitsilano Community Band 19:30.
+- Mondays 19:30 — Kitsilano Community Band rehearsal; user plays trumpet; conflict with guitar lessons.
+- Tuesdays 17:00 — STAT 200 tutoring with Alex Rivera; sessions booked 2026-10-13 and 2026-10-20.
+- Every 10 days — Feed ball python one medium rat.
+- As needed — 25-minute focus / 5-minute off productivity technique.
+- As needed — 20-minute nap with alarm.
+- October 2026 — Tokyo Smoke coffee bean subscription paused for October.
+
+Preferences &amp; Profile:
+- Location/timezone: Vancouver, BC, Canada; America/Vancouver. Mentions Shaw, Dunbar Clinic, UBC, IRCC, ICBC, Canadian Blood Services (Oak Street), Stanley Park Second Beach, Surrey, VGH, Main Street Health, West End Medical, Point Grey Medical, Rogers Arena, 35 Spruce Ave, 1402 Birch Rd, Krause Berry Farms (Langley), Donnelly’s pub, Sula, London Drugs Broadway, Broadway Physio, Jericho Beach, Quarry Media, Hart House, IKB room 185, Scotiabank Theatre, Orpheum, UBC Birdcoop, ICICS 104, Miku.
+- Student at UBC; courses: COMM 293 (Kofi Mehta), BIOL 112 (Adaeze Byrne), CHIN 131 (Soren Carvalho), PHYS 117 (Maeve Carvalho); MATH 221 study group with Daniel Kim; STAT 200 tutoring with Alex Rivera; applied for CPSC 110 TA for January term; Wesbrook Scholarship (essay due 2026-10-15; reference Dr. James Okoye); PyCon Canada talk accepted (2026-11-29 Toronto); applied for HCI lab RA with Prof. Elena Ruiz (10 hrs/week); in HCI reading group (present 2026-11-06).
+- Vercel offer: accepted $165k base; start date moved to 2027-01-06 subject to signing by 2026-10-03; recruiter Priya Nair.
+- Contacts: Linda (mom); Linda Park (piano teacher); Camille Carvalho (friend; birthday Oct 9), Esme Okonkwo (book club), Svetlana Ivanova (family friend), Svetlana Byrne (Northfield Labs billing), Ottilie Adeyemi (Ferngully Design billing), Ilse Watanabe (property manager), Thandiwe Chowdhury (property manager), Farhan Rossi (property manager, 35 Spruce Ave), Declan Novak (Silverfin broker), Olufemi Lindqvist (Pinewire broker), Tamsin Haddadi (Brickyard Digital broker), Ayesha Okonkwo (Saltmarsh Media broker), Lorenza Carvalho (Orchard Analytics billing), Priya Sharma (coworker), Aisling Eze, Zainab Byrne (book club), Emeka Devries (old classmate), Tom Becker &amp; Ana Silva (photo clients), Amara Lindqvist (Kettle Creative interviewer), Dr. Fernandez (Dunbar Clinic), Dr. Eze (Main Street Health), Dr. Marino (West End Medical physio), Dr. Duarte (West End Medical), Dr. Devries (Point Grey Medical), Dr. Wong (dentist), Dana Whitfield (Westland Insurance broker), Hannah Wu (Seasons in the Park event coordinator), Pepper (friend’s rabbit), Mochi (friend’s rabbit), Nkechi Byrne, Keiko Carvalho, Anouk Lindqvist, Dr. James Okoye, Grace Liu (CPA), Grace Kim (friend/movie night), Hamid Holm (Quarry Media recruiter), Alex Rivera (STAT 200 tutor), Omar Haddad (guitar teacher), Dr. Leung (Broadway Physio), Joelle Tremblay (headshot client), Sunniva Eze, Maya (friend; birthday 2026-10-14; loves ceramics/hiking/wheel throwing; vegetarian; no leather; gift budget ~$100), Daniel Kim (MATH 221 study group), Mark Okafor (coworker/carpool), James Liu (squash partner), Priya Nair (Vercel recruiter), Alex Chen (ACME Corp accountant, alex.chen@acmecorp.com), brother Daniel (wedding 2026-10-25 at Hart House; user is best man; fiancée Chloe), Chloe Reyes (Daniel’s fiancée; rehearsal dinner seating), Prof. Elena Ruiz (HCI lab RA interviewer/reading group lead).
+- Payments/accounts: TD Visa ending 4417; Shaw account 9794; Fortis account 7628; Fit4Less member cancelling; Orchard Analytics invoice INV-6234; Simplii savings account ending 1622; Wealth Co-op savings account ending 8833; Novus account 4487; Northfield Labs invoice INV-1896; Ferngully Design invoice INV-1164; Wealthsimple FHSA WS-4410; T4A income Brightline Media $12,400 and Northwind $6,900; ACME Corp invoice INV-8291 $4,200; ACME redesign quote Q-114 $6,800; Rogers dispute RG-10442; Rogers plan Infinite 50GB $75/month from 2026-11-01; StubHub listing SH-88213; DoorDash application.
+- Brands/services: Indigo, Structube, Home Depot, Flair, Air Canada, WestJet, Hozier, Men I Trust, Japanese Breakfast, Phoebe Bridgers, Mak N Ming, Miku, St. Lawrence, Anh and Chi, Sula, Dunbar Clinic, St. Andrew’s Hall, Silverfin, Pinewire, Brickyard Digital, Saltmarsh Media, TD, Shaw, Fortis, Rogers, Fit4Less, Westland Insurance, ICBC, Canadian Blood Services, Seasons in the Park, Kettle Creative, Main Street Health, West End Medical, Point Grey Medical, Simplii, Wealth Co-op, Novus, Rogers Arena, Canucks, Save-On-Foods, Krause Berry Farms, Donnelly’s pub, Kitsilano Community Band, Quarry Media, Wealthsimple, London Drugs, Broadway Physio, Jericho Beach, Hart House, PyCon Canada, Claymates, Osprey, Scotiabank Theatre, Orpheum, UBC Birdcoop, StubHub, ACME Corp, Vercel, Sport Chek, Tokyo Smoke, DoorDash, ICICS 104.
+- Personal: likes Men I Trust and Japanese Breakfast; bought Hozier tickets; joined community choir and Kitsilano Community Band (trumpet); asks fun facts (octopuses have three hearts); spilled coffee on shirt; car is 2018 Honda Civic, plate KP4 21R; blood type O negative; study permit expires 2026-12-01; parents’ 30th anniversary; shoots engagement photos; has ball python; mom Linda; friend’s rabbit Mochi; does 25/5 focus method; roommate leaves dishes; freelance taxes for 2025; Red Cross donations; FHSA; guitar lessons; STAT 200 tutoring; saved blood orange marmalade recipe (1kg oranges, 800g sugar, boil 40 minutes); saved buttermilk biscuits recipe (bake 12 min at 220C); signed up for Vancouver civic election volunteering 2026-10-17 07:00–15:00; recently finished a book (ending was weird); watches a detective show; paused Tokyo Smoke subscription for October; made pasta for the first time.
+
+Context &amp; Notes:
+- Insurance quotes comparison: Silverfin $7,074/year (tenant; Declan Novak), Pinewire $8,237/year (tenant; Olufemi Lindqvist), Brickyard Digital $8,370/year (contents; Tamsin Haddadi), Saltmarsh Media $2,918/year (travel medical Chicago; Ayesha Okonkwo); requested scopes mention Oaxaca/Montreal/Chicago/tenant vs contents/travel—clarify needs.
+- Shaw August bill $4,852 due 2026-12-03; account 9794; unusually high—verify.
+- Fortis August bill $7,790 due 2026-11-23; account 7628; verify.
+- Novus October bill $1,519 due 2026-11-25; account 4487.
+- 1402 Birch Rd viewing conflict: prior Ilse Watanabe 2026-11-19 vs Thandiwe Chowdhury 2026-10-02; verify.
+- Men I Trust tickets: 2, row J, Sula, 2026-11-25. Japanese Breakfast: 2, row D, Sula, 2026-11-23. Hozier: 2, section 112, row F, Rogers Arena, 2026-11-30.
+- Phoebe Bridgers tickets: 2, Orpheum, row K, 2026-10-11; listed on StubHub SH-88213; buyer offer $250 for both pending acceptance.
+- Order tracking: kettle #708-3967 arrives 2026-10-11; Home Depot curtains #705-9513 arrives 2026-10-27; Structube rice cooker #402-9866 2026-12-17; Indigo air fryer #568-2611 2026-12-20; Structube blender #291-6637 2026-12-22.
+- Gym cancellation: 30-day notice sent; last billing 2026-10-18.
+- Visa dispute TD-66120: duplicate $58.20 Uber Eats on Visa ending 4417.
+- Rogers billing dispute RG-10442: $64 roaming charge; supervisor review within 5 business days; user must provide dates in Canada.
+- Rogers plan upgraded to Infinite 50GB ($75/month) effective 2026-11-01; cancellable before then at no cost; user said “sorry wrong chat” immediately after—verify intent.
+- COMM 293 project with Kofi Mehta; draft due 2026-12-21.
+- BIOL 112 project with Adaeze Byrne; draft due 2026-10-25.
+- CHIN 131 project with Soren Carvalho; draft due 2026-11-27.
+- PHYS 117 project with Maeve Carvalho; draft due 2026-11-26.
+- Flights: Lisbon 2026-12-04 Flair GQW6E2; Chicago 2026-11-18 WestJet YJ7LMD; Porto 2026-11-17 Air Canada 93S48B; Toronto PyCon 2026-11-29 (30-min talk; $500 stipend).
+- Study permit extension submitted IRCC W30-5518; biometrics valid; processing ~90 days; permit expires 2026-12-01. Enrolment confirmation letter requested from UBC registrar; upload by 2026-11-05.
+- CPSC 110 TA application submitted for January term; decisions 2026-12-01.
+- HCI lab RA: sent CV/cover letter to Prof. Elena Ruiz; interviewed 2026-10-09 11:00 at ICICS 104 (send transcript beforehand); also added to HCI reading group—present 2026-11-06, submit paper choice by 2026-10-30.
+- Engagement photo shoot: Tom Becker &amp; Ana Silva, 2026-10-12 16:00, Stanley Park Second Beach; base $400, Lost Lagoon extension +$75, total $475, deposit $100.
+- Joelle Tremblay headshot: 2026-11-02 11:00, Jericho Beach, $180.
+- Parents’ anniversary: 2026-11-08 18:00, Seasons in the Park, 40 guests, $500 deposit, Hannah Wu; projector confirmed; menu choices due 2026-10-25.
+- Rehearsal dinner for Daniel &amp; Chloe: 2026-10-24 at Miku; user at table 4; Chloe Reyes emailed; awaiting final seating chart.
+- Car insurance: ICBC renewal via Dana Whitfield/Westland $1,380/year from 2026-10-20; 2018 Honda Civic plate KP4 21R.
+- Blood donation: 2026-10-09 13:00, Canadian Blood Services Oak Street; O negative; full meal beforehand; photo ID.
+- Invoice INV-6234 Orchard Analytics $8,122; emailed Lorenza Carvalho.
+- Invoice chases: Northfield Labs INV-1896 $424 (Svetlana Byrne); Ferngully Design INV-1164 $3,265 (Ottilie Adeyemi); ACME Corp INV-8291 $4,200 (Alex Chen; payment scheduled); ACME redesign quote Q-114 $6,800/5 weeks sent to Alex Chen.
+- Savings: Wealth Co-op account 8833 opened; $424 transfer set for 2026-10-13. Simplii account 1622 opened; $1,127 transfer set for 2026-10-09.
+- FHSA: Wealthsimple WS-4410 opened; $8,000 room for 2026; nothing deposited yet.
+- Tax prep: Sent Grace Liu (CPA) two T4A slips (Brightline Media $12,400; Northwind $6,900), business receipts, Red Cross receipts ($50, $50, $120); still needs GST/HST number and home office square footage.
+- Quarry Media interview: 2026-10-23 10:30 with Hamid Holm.
+- Vercel: accepted $165k base; start 2027-01-06 subject to signing by 2026-10-03 (Priya Nair).
+- STAT 200 tutoring: Alex Rivera, Tuesdays 17:00; sessions 2026-10-13, 2026-10-20.
+- Guitar lessons: Omar Haddad, Mondays 19:00, $50 each; conflicts with Kitsilano Community Band 19:30.
+- Piano lessons: Linda Park, Saturdays 10:00, $45/lesson; first 2026-10-10; conflict with apple picking 2026-10-10 11:00.
+- Squash: James Liu, UBC Birdcoop, Sundays 10:00; first 2026-10-11; conflicts with Save-On-Foods 09:00–11:00.
+- Carpool: Mark Okafor drives Tuesdays 08:10 from Burnaby; user drives Thursdays.
+- Movie night: Grace Kim, 2026-10-09 19:30, Scotiabank Theatre; tickets bought; overlaps Camille dinner/Pepper vet.
+- Zainab Byrne and Emeka Devries both emailed about returning borrowed cameras; possible duplicate tasks.
+- Linda’s knee surgery 2026-10-08 at VGH; check-in 06:30 Jim Pattison Pavilion; no food after midnight; user drives; discharge by 16:00. Prescriptions ready 2026-10-08 17:00 London Drugs Broadway. Knee rehab with Dr. Leung at Broadway Physio first session 2026-10-22 10:00.
+- 35 Spruce Ave viewing 2026-12-18 with Farhan Rossi; same day as physio Dr. Marino 09:00; check timing.
+- Mochi checkup 2026-12-09 Dunbar Clinic; Pepper vet 2026-10-09 Dunbar Clinic.
+- Ball python feeding: one medium rat every 10 days.
+- Canucks vs. Oilers 2026-10-18 Rogers Arena, section 309, 2 tickets.
+- Focus technique: 25 min on, 5 off; 20-minute nap with alarm as needed.
+- Apple picking 2026-10-10 11:00 Krause Berry Farms, Langley; 4 people.
+- Wesbrook Scholarship: essay 800 words due 2026-10-15; Dr. James Okoye reference (resume overdue since 2026-10-05).
+- Kitsilano Community Band joined; trumpet; Mondays 19:30; conflicts with guitar lessons.
+- Weekly Save-On-Foods grocery order Sundays 09:00–11:00; usual list saved.
+- Stanley Cup final watch party: Donnelly’s back room booked; date/time TBD.
+- Birthdays booked: Nkechi Byrne 2026-11-05 St. Lawrence 7; Keiko Carvalho 2026-11-07 Anh and Chi 13; Anouk Lindqvist 2026-12-07 Anh and Chi 20; Sunniva Eze 2026-12-23 Anh and Chi 4.
+- Oct 18 potential conflict: Dr. Duarte 10:30, Canucks vs. Oilers, Fit4Less last billing.
+- MATH 221 study group with Daniel Kim booked Wednesdays 18:00 IKB 185; first 2026-10-07.
+- PyCon Canada talk accepted: “Testing LLM Apps Without Losing Your Mind,” 30-min slot 2026-11-29 Toronto; $500 travel stipend; confirm by 2026-10-25.
+- Best man speech for Daniel’s wedding 2026-10-25 Hart House; revised (toned down roast, toast to Daniel and Chloe); ~4 min; originally around 2019 Garibaldi camping trip.
+- Maya’s birthday gift: Claymates voucher ($85) covers a 4-week wheel-throwing course she’d enjoy; alternate Osprey trail daypack $95; budget ~$100; no leather; birthday 2026-10-14.
+- Vancouver civic election poll volunteer 2026-10-17 07:00–15:00; conflicts with Dr. Eze 2026-10-17 10:30.
+- Blood orange marmalade recipe saved: 1kg oranges, 800g sugar, boil 40 min.
+- Buttermilk biscuits recipe saved: bake 12 min at 220C.
+- Sport Chek anniversary sale alert set for 2026-10-16.
+- Tokyo Smoke coffee bean subscription paused for October 2026.
+- DoorDash delivery rider application submitted; background check in progress.</conversation_summary>
+<user_message timestamp="2026-08-16 16:34:02">my macbook screen is cracked, get it fixed</user_message>
+<poke_reply timestamp="2026-08-16 16:34:49">looking into it</poke_reply>
+<agent_message timestamp="2026-08-16 16:34:52">[SUCCESS] Screen Fix: Booked a Genius Bar repair for the MacBook Pro screen at the Apple Store in Pacific Centre. Repair ticket R-55120. AppleCare deductible is $379.</agent_message>
+<poke_reply timestamp="2026-08-16 16:35:15">booked a Genius Bar repair for the MacBook Pro screen at the Apple Store in Pacific Centre. Repair ticket R-55120. AppleCare deductible is $379.</poke_reply>
+<user_message timestamp="2026-08-16 18:31:03">morning</user_message>
+<poke_reply timestamp="2026-08-16 18:31:26">morning. what's on today</poke_reply>
+<user_message timestamp="2026-08-16 19:32:16">we want to adopt the beagle named biscuit from the bc spca</user_message>
+<poke_reply timestamp="2026-08-16 19:32:34">on it</poke_reply>
+<agent_message timestamp="2026-08-16 19:32:47">[SUCCESS] SPCA Application: Submitted an adoption application to BC SPCA for Biscuit, a 1-year-old beagle. Application A-7781. Home visit on Oct 5 at 2pm.</agent_message>
+<poke_reply timestamp="2026-08-16 19:33:24">submitted an adoption application to BC SPCA for Biscuit, a 1-year-old beagle. Application A-7781. Home visit on Oct 5 at 2pm.</poke_reply>
+<user_message timestamp="2026-08-17 01:05:44">i spilled coffee on my shirt</user_message>
+<poke_reply timestamp="2026-08-17 01:07:03">stylish</poke_reply>
+<user_message timestamp="2026-08-17 07:40:38">email sharanjeet about our cpsc 310 report, i'll do sections 4 and 5</user_message>
+<poke_reply timestamp="2026-08-17 07:40:55">on it</poke_reply>
+<agent_message timestamp="2026-08-17 07:42:03">[SUCCESS] Email to Sharanjeet: Emailed Sharanjeet Kaur (CPSC 310 project partner) confirming the user will write sections 4-5 of the final report due Oct 10. Sharanjeet has sections 1-3.</agent_message>
+<poke_reply timestamp="2026-08-17 07:42:33">emailed Sharanjeet Kaur (CPSC 310 project partner) confirming the user will write sections 4-5 of the final report due Oct 10. Sharanjeet has sections 1-3.</poke_reply>
+<user_message timestamp="2026-08-17 11:09:50">sign me up for nwhacks with omar and jess</user_message>
+<poke_reply timestamp="2026-08-17 11:11:05">sure, doing that now</poke_reply>
+<agent_message timestamp="2026-08-17 11:11:10">[SUCCESS] nwHacks Signup: Registered team 'Budget Buddies' for nwHacks (Oct 18-19) with Omar Siddiqui and Jess Tanaka. Project idea: a student budgeting app.</agent_message>
+<poke_reply timestamp="2026-08-17 11:12:20">registered team 'Budget Buddies' for nwHacks (Oct 18-19) with Omar Siddiqui and Jess Tanaka. Project idea: a student budgeting app.</poke_reply>
+<user_message timestamp="2026-08-17 13:20:50">my lease at 44 elm st ends oct 31, can you ask mark diaz about renewing and keeping rent at 2100</user_message>
+<poke_reply timestamp="2026-08-17 13:21:58">looking into it</poke_reply>
+<agent_message timestamp="2026-08-17 13:22:52">[SUCCESS] Email to Mark: Emailed landlord Mark Diaz (mark.diaz@elmproperties.ca) asking to renew the 44 Elm St lease from Nov 1 at the current $2,100/month.</agent_message>
+<poke_reply timestamp="2026-08-17 13:24:16">emailed landlord Mark Diaz (mark.diaz@elmproperties.ca) asking to renew the 44 Elm St lease from Nov 1 at the current $2,100/month.</poke_reply>
+<user_message timestamp="2026-08-17 14:57:48">track my ikea sofa delivery</user_message>
+<poke_reply timestamp="2026-08-17 14:58:38">checking</poke_reply>
+<agent_message timestamp="2026-08-17 14:58:57">[SUCCESS] Sofa Tracking: IKEA order IK-440912 (Soderhamn sofa) is scheduled for delivery Oct 6 between 8am and 12pm.</agent_message>
+<poke_reply timestamp="2026-08-17 14:59:14">iKEA order IK-440912 (Soderhamn sofa) is scheduled for delivery Oct 6 between 8am and 12pm.</poke_reply>
+<user_message timestamp="2026-08-17 22:07:33">sam and i are going to japan nov 12 to 20, book flights</user_message>
+<poke_reply timestamp="2026-08-17 22:07:59">looking into it</poke_reply>
+<agent_message timestamp="2026-08-17 22:08:24">[SUCCESS] Flight Booking: Booked JAL flight JL7 Vancouver to Tokyo Narita for the user and Sam Whitaker, departing Nov 12, returning Nov 20. Confirmation QX7RT2.</agent_message>
+<poke_reply timestamp="2026-08-17 22:08:54">booked JAL flight JL7 Vancouver to Tokyo Narita for the user and Sam Whitaker, departing Nov 12, returning Nov 20. Confirmation QX7RT2.</poke_reply>
+<user_message timestamp="2026-08-18 05:09:03">get pre-approved for a mortgage with rbc</user_message>
+<poke_reply timestamp="2026-08-18 05:10:31">sure, doing that now</poke_reply>
+<agent_message timestamp="2026-08-18 05:11:22">[SUCCESS] Pre-approval: Started an RBC mortgage pre-approval with mortgage specialist Nadia Rahman. She needs 2 recent pay stubs and the latest Notice of Assessment.</agent_message>
+<poke_reply timestamp="2026-08-18 05:11:51">started an RBC mortgage pre-approval with mortgage specialist Nadia Rahman. She needs 2 recent pay stubs and the latest Notice of Assessment.</poke_reply>
+<user_message timestamp="2026-08-18 10:23:02">that show was so good</user_message>
+<poke_reply timestamp="2026-08-18 10:24:04">which one</poke_reply>
+<user_message timestamp="2026-08-18 15:32:57">did sharanjeet send her part</user_message>
+<poke_reply timestamp="2026-08-18 15:33:05">looking into it</poke_reply>
+<agent_message timestamp="2026-08-18 15:33:45">[SUCCESS] Email to Sharanjeet: Sharanjeet Kaur sent sections 1-3 as a Google Doc and asked the user to merge everything by Oct 8.</agent_message>
+<poke_reply timestamp="2026-08-18 15:33:49">sharanjeet Kaur sent sections 1-3 as a Google Doc and asked the user to merge everything by Oct 8.</poke_reply>
+<user_message timestamp="2026-08-18 19:38:31">ok cool</user_message>
+<poke_reply timestamp="2026-08-18 19:38:55">cool</poke_reply>
+<user_message timestamp="2026-08-18 23:05:47">how many ounces in a cup</user_message>
+<poke_reply timestamp="2026-08-18 23:06:56">8</poke_reply>
+<user_message timestamp="2026-08-19 05:59:40">did the pre-approval go through</user_message>
+<poke_reply timestamp="2026-08-19 06:00:19">sure, doing that now</poke_reply>
+<agent_message timestamp="2026-08-19 06:01:48">[SUCCESS] Pre-approval: Nadia Rahman pre-approved the user for up to $620,000 at 4.9% fixed, valid for 120 days.</agent_message>
+<poke_reply timestamp="2026-08-19 06:02:10">nadia Rahman pre-approved the user for up to $620,000 at 4.9% fixed, valid for 120 days.</poke_reply>
+<user_message timestamp="2026-08-19 09:13:30">find a ryokan in kyoto for the middle of the trip</user_message>
+<poke_reply timestamp="2026-08-19 09:14:30">sure, doing that now</poke_reply>
+<agent_message timestamp="2026-08-19 09:15:28">[SUCCESS] Flight Booking: Found two ryokan options in Kyoto for Nov 16-18: Yoshida-sanso (about $420/night) and Hiiragiya (about $610/night). Waiting for the user to choose.</agent_message>
+<poke_reply timestamp="2026-08-19 09:16:05">found two ryokan options in Kyoto for Nov 16-18: Yoshida-sanso (about $420/night) and Hiiragiya (about $610/night). Waiting for the user to choose.</poke_reply>
+<user_message timestamp="2026-08-19 17:23:17">did mark get back to us?</user_message>
+<poke_reply timestamp="2026-08-19 17:24:41">looking into it</poke_reply>
+<agent_message timestamp="2026-08-19 17:25:04">[SUCCESS] Email to Mark: Mark Diaz agreed to renew at $2,100 from Nov 1 and wants to meet to sign. Waiting on a meeting time.</agent_message>
+<poke_reply timestamp="2026-08-19 17:26:25">mark Diaz agreed to renew at $2,100 from Nov 1 and wants to meet to sign. Waiting on a meeting time.</poke_reply>
+<user_message timestamp="2026-08-20 01:21:48">just vibe</user_message>
+<poke_reply timestamp="2026-08-20 01:22:53">vibing</poke_reply>
+<user_message timestamp="2026-08-20 05:01:28">i'm so tired</user_message>
+<poke_reply timestamp="2026-08-20 05:02:51">go to bed at a human hour tonight</poke_reply>
+<user_message timestamp="2026-08-20 09:50:45">is my laptop done</user_message>
+<poke_reply timestamp="2026-08-20 09:51:39">looking into it</poke_reply>
+<agent_message timestamp="2026-08-20 09:51:47">[SUCCESS] Screen Fix: Apple says the MacBook Pro screen (ticket R-55120) is fixed and ready for pickup at Pacific Centre from Oct 4.</agent_message>
+<poke_reply timestamp="2026-08-20 09:52:25">apple says the MacBook Pro screen (ticket R-55120) is fixed and ready for pickup at Pacific Centre from Oct 4.</poke_reply>
+<user_message timestamp="2026-08-20 17:58:27">how many ounces in a cup</user_message>
+<poke_reply timestamp="2026-08-20 17:58:41">8</poke_reply>
+<user_message timestamp="2026-08-20 20:54:02">any news on biscuit</user_message>
+<poke_reply timestamp="2026-08-20 20:54:34">give me a sec</poke_reply>
+<agent_message timestamp="2026-08-20 20:55:27">[SUCCESS] SPCA Application: Biscuit's adoption was approved; pickup Oct 12. BC SPCA recommends a vet check within a week. Dr. Anika Patel at Kits Vet has an opening Oct 15.</agent_message>
+<poke_reply timestamp="2026-08-20 20:55:36">biscuit's adoption was approved; pickup Oct 12. BC SPCA recommends a vet check within a week. Dr. Anika Patel at Kits Vet has an opening Oct 15.</poke_reply>
+<user_message timestamp="2026-08-21 03:34:25">what's the team up to</user_message>
+<poke_reply timestamp="2026-08-21 03:35:11">on it</poke_reply>
+<agent_message timestamp="2026-08-21 03:35:16">[SUCCESS] nwHacks Signup: Omar Siddiqui set up the GitHub repo and Jess Tanaka is doing the UI. Submission deadline is Oct 19 at 9am.</agent_message>
+<poke_reply timestamp="2026-08-21 03:35:55">omar Siddiqui set up the GitHub repo and Jess Tanaka is doing the UI. Submission deadline is Oct 19 at 9am.</poke_reply>
+<user_message timestamp="2026-08-21 09:30:48">any fun fact</user_message>
+<poke_reply timestamp="2026-08-21 09:31:37">octopuses have three hearts</poke_reply>
+<user_message timestamp="2026-08-21 14:23:41">the sofa came without a leg</user_message>
+<poke_reply timestamp="2026-08-21 14:24:57">checking</poke_reply>
+<agent_message timestamp="2026-08-21 14:25:52">[SUCCESS] Sofa Tracking: IKEA opened a replacement part request for the missing sofa leg on order IK-440912. It arrives in 7-10 days.</agent_message>
+<poke_reply timestamp="2026-08-21 14:26:01">iKEA opened a replacement part request for the missing sofa leg on order IK-440912. It arrives in 7-10 days.</poke_reply>
+<user_message timestamp="2026-08-21 18:18:58">while it's in, book me that final cut pro training at the apple store</user_message>
+<poke_reply timestamp="2026-08-21 18:19:34">give me a sec</poke_reply>
+<agent_message timestamp="2026-08-21 18:20:05">[SUCCESS] Screen Fix: Booked a Final Cut Pro session at the Apple Store in Pacific Centre for Oct 20 at 6pm.</agent_message>
+<poke_reply timestamp="2026-08-21 18:20:37">booked a Final Cut Pro session at the Apple Store in Pacific Centre for Oct 20 at 6pm.</poke_reply>
+<user_message timestamp="2026-08-21 21:05:45">sign biscuit up for puppy class</user_message>
+<poke_reply timestamp="2026-08-21 21:06:47">give me a sec</poke_reply>
+<agent_message timestamp="2026-08-21 21:08:16">[SUCCESS] SPCA Application: Signed Biscuit up for puppy class at Kits Dog School, Saturdays 9am from Oct 19, $220 for 6 weeks.</agent_message>
+<poke_reply timestamp="2026-08-21 21:09:36">signed Biscuit up for puppy class at Kits Dog School, Saturdays 9am from Oct 19, $220 for 6 weeks.</poke_reply>

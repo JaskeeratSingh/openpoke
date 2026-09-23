@@ -1,0 +1,8 @@
+# Extra packages for the routing benchmark (on top of the server's requirements).
+fastembed>=0.7
+
+# Only for evals/insights.ipynb (the plots).
+matplotlib>=3.8
+pandas>=2.0
+ipykernel
+nbconvert

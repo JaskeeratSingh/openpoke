@@ -24,6 +24,7 @@ yarn-error.log*
 .venv/
 __pycache__/
 *.pyc
+.pytest_cache/
 
 # Database files
 *.db
@@ -32,7 +33,7 @@ __pycache__/
 
 # Data folder
 server/data/
-data/
+/data/
 
 # Python virtual environment
 server/venv/

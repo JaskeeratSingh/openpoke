@@ -77,6 +77,9 @@ The web app proxies API calls to the Python server using the values in `.env`, s
 - `server/` – FastAPI application and agents
 - `web/` – Next.js app
 - `server/data/` – runtime data (ignored by git)
+- `evals/` – a benchmark of four ways OpenPoke's interaction agent could pick which execution
+  agent handles a request; see [`evals/README.md`](evals/README.md) for the problem, the
+  designs tested, and the results
 
 ## License
 MIT — see [LICENSE](LICENSE).

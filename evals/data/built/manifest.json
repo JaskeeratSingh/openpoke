@@ -1,0 +1,17 @@
+{
+  "built_at": "2026-09-23T06:10:31",
+  "seed": 2026,
+  "summarizer_model": "deepseek/deepseek-v4.1-flash",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "main_agents": 51,
+  "fillers": 1000,
+  "decay_conversation_entries": 1090,
+  "decay_target_levels": {
+    "summarized": 16,
+    "visible": 8
+  },
+  "growth_cases": 120,
+  "decay_cases": 110,
+  "dev_cases": 20,
+  "s2_threshold": 0.4
+}

@@ -1,0 +1,1224 @@
+[
+  {
+    "name": "Invoice Chase",
+    "role": "target",
+    "false_friend": "Tutoring with Alex",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Alex Chen",
+      "INV-8291",
+      "ACME",
+      "Q-114"
+    ],
+    "episodes": [
+      {
+        "user": "acme corp still hasn't paid invoice 8291 for the website work, can you chase alex chen about it",
+        "result": "Emailed Alex Chen (accountant at ACME Corp, alex.chen@acmecorp.com) about INV-8291 for $4,200, which was due Sep 30."
+      },
+      {
+        "user": "any word from alex on the invoice?",
+        "result": "Alex Chen replied that ACME scheduled the $4,200 payment for INV-8291 by wire on Oct 3. Waiting to confirm it arrives."
+      },
+      {
+        "user": "alex asked if we could quote a website redesign too, send them something",
+        "result": "Sent Alex Chen a quote for an ACME website redesign: Q-114, $6,800, 5 weeks. Waiting for a reply."
+      }
+    ],
+    "card": {
+      "purpose": "Chasing payment of invoice INV-8291 from ACME Corp.",
+      "people": "Alex Chen, accountant at ACME Corp (alex.chen@acmecorp.com).",
+      "details": "INV-8291 is $4,200 for website work, due Sep 30. ACME says the wire goes out Oct 3. Also sent redesign quote Q-114 ($6,800, 5 weeks).",
+      "state": "Waiting to confirm the payment and for a reply on the quote."
+    }
+  },
+  {
+    "name": "Tutoring with Alex",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Alex Rivera",
+      "STAT 200"
+    ],
+    "episodes": [
+      {
+        "user": "book two more stats tutoring sessions with alex rivera",
+        "result": "Booked two STAT 200 tutoring sessions with Alex Rivera, Tuesdays at 5pm."
+      }
+    ],
+    "card": {
+      "purpose": "Booking STAT 200 tutoring sessions.",
+      "people": "Alex Rivera, statistics tutor.",
+      "details": "Two sessions booked, Tuesdays at 5pm.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "Present Ideas",
+    "role": "target",
+    "false_friend": "Gift Receipts",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Maya",
+      "Claymates",
+      "Osprey"
+    ],
+    "episodes": [
+      {
+        "user": "help me find a birthday present for maya, her birthday is oct 14. she loves ceramics and hiking, budget around $100. she's vegetarian so nothing leather",
+        "result": "Shortlist for Maya's Oct 14 birthday (budget $100, no leather): a Claymates pottery class voucher ($85) or an Osprey trail daypack ($95)."
+      },
+      {
+        "user": "she mentioned she wants to try wheel throwing, does that change anything",
+        "result": "The Claymates voucher covers a 4-week wheel-throwing course, so it fits. Waiting for the user to pick one."
+      }
+    ],
+    "card": {
+      "purpose": "Choosing a birthday present for the user's girlfriend, Maya.",
+      "people": "Maya, the user's girlfriend. Birthday Oct 14. Loves ceramics and hiking. Vegetarian, so no leather.",
+      "details": "Budget about $100. Options: Claymates 4-week wheel-throwing voucher ($85) or Osprey trail daypack ($95).",
+      "state": "Waiting for the user to choose."
+    }
+  },
+  {
+    "name": "Gift Receipts",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Red Cross"
+    ],
+    "episodes": [
+      {
+        "user": "gather my red cross donation receipts for my taxes",
+        "result": "Collected three Red Cross donation receipts ($50, $50 and $120) for the tax return."
+      }
+    ],
+    "card": {
+      "purpose": "Collecting charitable donation receipts for taxes.",
+      "people": "None.",
+      "details": "Three Red Cross receipts: $50, $50 and $120.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "Email to Mark",
+    "role": "target",
+    "false_friend": "Carpool with Mark",
+    "decay_slot": "late",
+    "key_terms": [
+      "Mark Diaz",
+      "44 Elm St"
+    ],
+    "episodes": [
+      {
+        "user": "my lease at 44 elm st ends oct 31, can you ask mark diaz about renewing and keeping rent at 2100",
+        "result": "Emailed landlord Mark Diaz (mark.diaz@elmproperties.ca) asking to renew the 44 Elm St lease from Nov 1 at the current $2,100/month."
+      },
+      {
+        "user": "did mark get back to us?",
+        "result": "Mark Diaz agreed to renew at $2,100 from Nov 1 and wants to meet to sign. Waiting on a meeting time."
+      }
+    ],
+    "card": {
+      "purpose": "Renewing the lease at 44 Elm St.",
+      "people": "Mark Diaz, landlord (mark.diaz@elmproperties.ca).",
+      "details": "Rent stays at $2,100/month. New term starts Nov 1.",
+      "state": "Arranging a time to sign."
+    }
+  },
+  {
+    "name": "Carpool with Mark",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Mark Okafor"
+    ],
+    "episodes": [
+      {
+        "user": "set up a tuesday carpool with mark okafor from work",
+        "result": "Mark Okafor will drive on Tuesdays, leaving Burnaby at 8:10am. The user drives on Thursdays."
+      }
+    ],
+    "card": {
+      "purpose": "Carpooling to work.",
+      "people": "Mark Okafor, coworker.",
+      "details": "Mark drives Tuesdays (leaves Burnaby 8:10am); the user drives Thursdays.",
+      "state": "Set up."
+    }
+  },
+  {
+    "name": "Offer Negotiation",
+    "role": "target",
+    "false_friend": "Wedding RSVP",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Priya Nair",
+      "Vercel"
+    ],
+    "episodes": [
+      {
+        "user": "i got the vercel offer, can you handle the back and forth with priya nair, i want to push the start date",
+        "result": "Emailed Priya Nair (recruiter at Vercel) accepting the offer terms ($165k base, decision due Oct 3) and asking to start in January instead of Nov 15."
+      },
+      {
+        "user": "what did priya say about the start date",
+        "result": "Priya Nair said Vercel can move the start date to Jan 6 if the user signs by Oct 3."
+      }
+    ],
+    "card": {
+      "purpose": "Negotiating the Vercel job offer.",
+      "people": "Priya Nair, recruiter at Vercel.",
+      "details": "$165k base. Decision due Oct 3. Start date can move to Jan 6 if signed by Oct 3.",
+      "state": "Waiting for the user to sign."
+    }
+  },
+  {
+    "name": "Wedding RSVP",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Priya Sharma"
+    ],
+    "episodes": [
+      {
+        "user": "rsvp yes to priya sharma's wedding for me and a plus one",
+        "result": "RSVP'd yes with a plus one to coworker Priya Sharma's wedding on Nov 22 in Surrey."
+      }
+    ],
+    "card": {
+      "purpose": "RSVP to a coworker's wedding.",
+      "people": "Priya Sharma, coworker.",
+      "details": "Wedding Nov 22 in Surrey. RSVP yes, plus one.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "Flight Booking",
+    "role": "target",
+    "false_friend": "Tokyo Smoke Order",
+    "decay_slot": "late",
+    "key_terms": [
+      "Sam Whitaker",
+      "QX7RT2",
+      "Kyoto"
+    ],
+    "episodes": [
+      {
+        "user": "sam and i are going to japan nov 12 to 20, book flights",
+        "result": "Booked JAL flight JL7 Vancouver to Tokyo Narita for the user and Sam Whitaker, departing Nov 12, returning Nov 20. Confirmation QX7RT2."
+      },
+      {
+        "user": "find a ryokan in kyoto for the middle of the trip",
+        "result": "Found two ryokan options in Kyoto for Nov 16-18: Yoshida-sanso (about $420/night) and Hiiragiya (about $610/night). Waiting for the user to choose."
+      }
+    ],
+    "card": {
+      "purpose": "Planning the user's Japan trip with Sam Whitaker.",
+      "people": "Sam Whitaker, travel companion.",
+      "details": "JAL JL7 to Tokyo Nov 12, back Nov 20, confirmation QX7RT2. Kyoto ryokan options for Nov 16-18: Yoshida-sanso (~$420/night), Hiiragiya (~$610/night).",
+      "state": "Waiting for the user to pick a ryokan."
+    }
+  },
+  {
+    "name": "Tokyo Smoke Order",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Tokyo Smoke"
+    ],
+    "episodes": [
+      {
+        "user": "pause my tokyo smoke coffee subscription for october",
+        "result": "Paused the Tokyo Smoke coffee bean subscription for October."
+      }
+    ],
+    "card": {
+      "purpose": "Managing a coffee bean subscription.",
+      "people": "None.",
+      "details": "Tokyo Smoke subscription paused for October.",
+      "state": "Paused."
+    }
+  },
+  {
+    "name": "Email to Sharanjeet",
+    "role": "target",
+    "false_friend": "TA Application",
+    "decay_slot": "late",
+    "key_terms": [
+      "Sharanjeet Kaur",
+      "CPSC 310"
+    ],
+    "episodes": [
+      {
+        "user": "email sharanjeet about our cpsc 310 report, i'll do sections 4 and 5",
+        "result": "Emailed Sharanjeet Kaur (CPSC 310 project partner) confirming the user will write sections 4-5 of the final report due Oct 10. Sharanjeet has sections 1-3."
+      },
+      {
+        "user": "did sharanjeet send her part",
+        "result": "Sharanjeet Kaur sent sections 1-3 as a Google Doc and asked the user to merge everything by Oct 8."
+      }
+    ],
+    "card": {
+      "purpose": "Coordinating the CPSC 310 final report.",
+      "people": "Sharanjeet Kaur, CPSC 310 project partner.",
+      "details": "Report due Oct 10. Sharanjeet wrote sections 1-3 (Google Doc); the user writes 4-5. Merge by Oct 8.",
+      "state": "The user needs to merge the sections."
+    }
+  },
+  {
+    "name": "TA Application",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "CPSC 110"
+    ],
+    "episodes": [
+      {
+        "user": "apply to TA cpsc 110 next term",
+        "result": "Submitted the CPSC 110 TA application for the January term. Decisions come out Dec 1."
+      }
+    ],
+    "card": {
+      "purpose": "Applying to be a teaching assistant for CPSC 110.",
+      "people": "None.",
+      "details": "January term. Decisions Dec 1.",
+      "state": "Submitted."
+    }
+  },
+  {
+    "name": "Insurance Quote",
+    "role": "target",
+    "false_friend": "Election Volunteering",
+    "decay_slot": "early",
+    "key_terms": [
+      "Dana Whitfield",
+      "KP4 21R",
+      "Honda Civic",
+      "ICBC"
+    ],
+    "episodes": [
+      {
+        "user": "my car insurance renews oct 20, can you get a quote from my broker dana whitfield",
+        "result": "Dana Whitfield (broker at Westland Insurance) quoted $1,380/year to renew ICBC coverage on the user's 2018 Honda Civic, plate KP4 21R, from Oct 20."
+      }
+    ],
+    "card": {
+      "purpose": "Renewing the user's car insurance.",
+      "people": "Dana Whitfield, insurance broker at Westland Insurance.",
+      "details": "2018 Honda Civic, plate KP4 21R. Renewal Oct 20. Quote $1,380/year.",
+      "state": "Waiting for the user to accept the quote."
+    }
+  },
+  {
+    "name": "Election Volunteering",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "polling station"
+    ],
+    "episodes": [
+      {
+        "user": "sign me up to volunteer at a polling station for the civic election",
+        "result": "Signed up as a polling station volunteer for the Vancouver civic election on Oct 17, 7am-3pm."
+      }
+    ],
+    "card": {
+      "purpose": "Volunteering for the municipal election.",
+      "people": "None.",
+      "details": "Polling station volunteer, Oct 17, 7am-3pm.",
+      "state": "Signed up."
+    }
+  },
+  {
+    "name": "Ticket Sale",
+    "role": "target",
+    "false_friend": "Band Rehearsals",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Phoebe Bridgers",
+      "SH-88213",
+      "Orpheum",
+      "Hozier"
+    ],
+    "episodes": [
+      {
+        "user": "sell my two phoebe bridgers tickets for oct 11",
+        "result": "Listed two Phoebe Bridgers tickets (Oct 11, Orpheum, row K) on StubHub as listing SH-88213 at $140 each."
+      },
+      {
+        "user": "any offers on the tickets",
+        "result": "A buyer offered $250 for both tickets on listing SH-88213. Waiting for the user to accept."
+      },
+      {
+        "user": "also grab me two hozier tickets for nov 30",
+        "result": "Bought two Hozier tickets for Nov 30 at Rogers Arena, section 112, row F."
+      }
+    ],
+    "card": {
+      "purpose": "Reselling two concert tickets.",
+      "people": "None.",
+      "details": "Phoebe Bridgers, Oct 11 at the Orpheum, row K. StubHub listing SH-88213 at $140 each. Offer of $250 for both. Also bought two Hozier tickets, Nov 30, section 112, row F.",
+      "state": "Waiting for the user to accept the offer."
+    }
+  },
+  {
+    "name": "Band Rehearsals",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Kitsilano Community Band"
+    ],
+    "episodes": [
+      {
+        "user": "join the kitsilano community band, i play trumpet",
+        "result": "Joined the Kitsilano Community Band on trumpet. Rehearsals Mondays at 7:30pm."
+      }
+    ],
+    "card": {
+      "purpose": "Playing in a community band.",
+      "people": "None.",
+      "details": "Kitsilano Community Band, trumpet. Rehearsals Mondays 7:30pm.",
+      "state": "Joined."
+    }
+  },
+  {
+    "name": "Speech Draft",
+    "role": "target",
+    "false_friend": "Study Group with Daniel",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Hart House",
+      "best man speech",
+      "Chloe Reyes"
+    ],
+    "episodes": [
+      {
+        "user": "i'm best man at my brother daniel's wedding oct 25, help me draft the speech",
+        "result": "Drafted a 4-minute best man speech for Daniel's wedding on Oct 25 at Hart House, built around the 2019 Garibaldi camping trip story."
+      },
+      {
+        "user": "make it less roast-y",
+        "result": "Revised the best man speech: toned down the roast and added a toast to Daniel and his fiancee Chloe. Still about 4 minutes."
+      },
+      {
+        "user": "chloe emailed about the rehearsal dinner seating, can you handle it",
+        "result": "Emailed Chloe Reyes (Daniel's fiancee) about seating for the rehearsal dinner on Oct 24 at Miku; the user is at table 4. Waiting for her to confirm the chart is final."
+      }
+    ],
+    "card": {
+      "purpose": "Writing the best man speech for the user's brother's wedding.",
+      "people": "Daniel, the user's brother. Chloe Reyes, Daniel's fiancee.",
+      "details": "Wedding Oct 25 at Hart House. About 4 minutes. Built around the 2019 Garibaldi camping trip; roast toned down. Also handling rehearsal dinner seating with Chloe (Oct 24, Miku, the user at table 4).",
+      "state": "Second draft ready; waiting for Chloe to confirm the seating chart."
+    }
+  },
+  {
+    "name": "Study Group with Daniel",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Daniel Kim",
+      "MATH 221"
+    ],
+    "episodes": [
+      {
+        "user": "set up a weekly math 221 study group with daniel kim",
+        "result": "Weekly MATH 221 study group with Daniel Kim booked in IKB room 185, Wednesdays 6pm."
+      }
+    ],
+    "card": {
+      "purpose": "Running a weekly MATH 221 study group.",
+      "people": "Daniel Kim, classmate.",
+      "details": "IKB room 185, Wednesdays 6pm.",
+      "state": "Booked."
+    }
+  },
+  {
+    "name": "Permit Extension",
+    "role": "target",
+    "false_friend": "Visa Charge",
+    "decay_slot": "early",
+    "key_terms": [
+      "W30-5518",
+      "IRCC"
+    ],
+    "episodes": [
+      {
+        "user": "my study permit expires dec 1, start the extension",
+        "result": "Submitted the IRCC study permit extension online, application number W30-5518. Biometrics are still valid. Processing takes about 90 days."
+      },
+      {
+        "user": "they want a letter from school?",
+        "result": "IRCC requested an enrolment confirmation letter for application W30-5518. Requested it from the UBC registrar; it must be uploaded within 30 days."
+      }
+    ],
+    "card": {
+      "purpose": "Extending the user's study permit.",
+      "people": "None.",
+      "details": "IRCC application W30-5518. Permit expires Dec 1. Processing about 90 days. Enrolment letter requested from the UBC registrar; upload within 30 days.",
+      "state": "Waiting for the registrar's letter."
+    }
+  },
+  {
+    "name": "Visa Charge",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "TD-66120",
+      "4417"
+    ],
+    "episodes": [
+      {
+        "user": "dispute that double charge on my visa",
+        "result": "Opened a dispute with TD for a duplicate $58.20 Uber Eats charge on the Visa ending 4417. Case TD-66120."
+      }
+    ],
+    "card": {
+      "purpose": "Disputing a duplicate credit card charge.",
+      "people": "None.",
+      "details": "TD Visa ending 4417, duplicate $58.20 Uber Eats charge. Case TD-66120.",
+      "state": "Dispute open."
+    }
+  },
+  {
+    "name": "Hospital Ride",
+    "role": "target",
+    "false_friend": "Piano Lessons",
+    "decay_slot": "early",
+    "key_terms": [
+      "VGH",
+      "knee surgery",
+      "Linda",
+      "Broadway Physio"
+    ],
+    "episodes": [
+      {
+        "user": "my mom linda has knee surgery at vgh oct 8, help me plan driving her",
+        "result": "Plan for Linda's knee surgery at VGH on Oct 8: check in 6:30am at Jim Pattison Pavilion, no food after midnight, the user drives. Discharge expected the same day by 4pm."
+      },
+      {
+        "user": "she needs her prescriptions picked up after",
+        "result": "Arranged prescription pickup for Linda at the London Drugs on Broadway, ready Oct 8 after 5pm."
+      },
+      {
+        "user": "mom needs physio for her knee after, can you find someone",
+        "result": "Booked Linda's knee rehab with physiotherapist Dr. Leung at Broadway Physio; first session Oct 22 at 10am."
+      }
+    ],
+    "card": {
+      "purpose": "Planning around the user's mom's knee surgery.",
+      "people": "Linda, the user's mom.",
+      "details": "Knee surgery at VGH on Oct 8. Check in 6:30am at Jim Pattison Pavilion; no food after midnight; the user drives; discharge by 4pm. Prescriptions at London Drugs on Broadway after 5pm. Physio with Dr. Leung at Broadway Physio from Oct 22, 10am.",
+      "state": "Surgery plan ready; physio booked."
+    }
+  },
+  {
+    "name": "Piano Lessons",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Linda Park"
+    ],
+    "episodes": [
+      {
+        "user": "book piano lessons with linda park",
+        "result": "Booked weekly piano lessons with Linda Park, Saturdays 10am, $45 per lesson."
+      }
+    ],
+    "card": {
+      "purpose": "Weekly piano lessons.",
+      "people": "Linda Park, piano teacher.",
+      "details": "Saturdays 10am, $45 per lesson.",
+      "state": "Booked."
+    }
+  },
+  {
+    "name": "Screen Fix",
+    "role": "target",
+    "false_friend": "Apple Picking",
+    "decay_slot": "late",
+    "key_terms": [
+      "R-55120",
+      "Genius Bar",
+      "Pacific Centre",
+      "Final Cut Pro"
+    ],
+    "episodes": [
+      {
+        "user": "my macbook screen is cracked, get it fixed",
+        "result": "Booked a Genius Bar repair for the MacBook Pro screen at the Apple Store in Pacific Centre. Repair ticket R-55120. AppleCare deductible is $379."
+      },
+      {
+        "user": "is my laptop done",
+        "result": "Apple says the MacBook Pro screen (ticket R-55120) is fixed and ready for pickup at Pacific Centre from Oct 4."
+      },
+      {
+        "user": "while it's in, book me that final cut pro training at the apple store",
+        "result": "Booked a Final Cut Pro session at the Apple Store in Pacific Centre for Oct 20 at 6pm."
+      }
+    ],
+    "card": {
+      "purpose": "Getting the MacBook Pro screen repaired.",
+      "people": "None.",
+      "details": "Apple Store, Pacific Centre. Ticket R-55120. AppleCare deductible $379. Ready for pickup from Oct 4. Also booked a Final Cut Pro session there, Oct 20 at 6pm.",
+      "state": "Laptop ready for pickup; training session booked."
+    }
+  },
+  {
+    "name": "Apple Picking",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Krause Berry Farms"
+    ],
+    "episodes": [
+      {
+        "user": "plan apple picking this saturday",
+        "result": "Apple picking at Krause Berry Farms in Langley booked for Saturday at 11am, 4 people."
+      }
+    ],
+    "card": {
+      "purpose": "A day trip to pick apples.",
+      "people": "None.",
+      "details": "Krause Berry Farms, Langley. Saturday 11am, 4 people.",
+      "state": "Booked."
+    }
+  },
+  {
+    "name": "Tax Stuff",
+    "role": "target",
+    "false_friend": "Movie Night with Grace",
+    "decay_slot": "early",
+    "key_terms": [
+      "Grace Liu",
+      "T4A",
+      "WS-4410"
+    ],
+    "episodes": [
+      {
+        "user": "get my freelance taxes sorted with my accountant grace liu",
+        "result": "Sent Grace Liu (CPA) the user's two T4A slips (Brightline Media $12,400; Northwind $6,900) and business receipts for the 2025 return."
+      },
+      {
+        "user": "what else does grace need",
+        "result": "Grace Liu needs the user's GST/HST number and the home office square footage to finish the 2025 return."
+      },
+      {
+        "user": "grace said i should open an fhsa, can you set it up",
+        "result": "Opened a First Home Savings Account (FHSA) at Wealthsimple, account WS-4410, with $8,000 of room this year. Nothing deposited yet."
+      }
+    ],
+    "card": {
+      "purpose": "Filing the user's 2025 freelance taxes.",
+      "people": "Grace Liu, the user's accountant (CPA).",
+      "details": "T4A slips: Brightline Media $12,400, Northwind $6,900. Receipts sent. Grace needs the GST/HST number and home office square footage. Also opened an FHSA at Wealthsimple (WS-4410, $8,000 room, empty).",
+      "state": "Waiting on the GST/HST number and square footage; FHSA not funded yet."
+    }
+  },
+  {
+    "name": "Movie Night with Grace",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Grace Kim"
+    ],
+    "episodes": [
+      {
+        "user": "plan a movie night with grace kim friday",
+        "result": "Movie night with Grace Kim on Friday: 7:30pm showing at Scotiabank Theatre, tickets bought."
+      }
+    ],
+    "card": {
+      "purpose": "Movie night with a friend.",
+      "people": "Grace Kim, friend.",
+      "details": "Friday 7:30pm, Scotiabank Theatre. Tickets bought.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "SPCA Application",
+    "role": "target",
+    "false_friend": "Biscuit Recipe",
+    "decay_slot": "late",
+    "key_terms": [
+      "A-7781",
+      "BC SPCA",
+      "Anika Patel",
+      "Kits Dog School"
+    ],
+    "episodes": [
+      {
+        "user": "we want to adopt the beagle named biscuit from the bc spca",
+        "result": "Submitted an adoption application to BC SPCA for Biscuit, a 1-year-old beagle. Application A-7781. Home visit on Oct 5 at 2pm."
+      },
+      {
+        "user": "any news on biscuit",
+        "result": "Biscuit's adoption was approved; pickup Oct 12. BC SPCA recommends a vet check within a week. Dr. Anika Patel at Kits Vet has an opening Oct 15."
+      },
+      {
+        "user": "sign biscuit up for puppy class",
+        "result": "Signed Biscuit up for puppy class at Kits Dog School, Saturdays 9am from Oct 19, $220 for 6 weeks."
+      }
+    ],
+    "card": {
+      "purpose": "Adopting a dog from BC SPCA.",
+      "people": "Dr. Anika Patel, vet at Kits Vet.",
+      "details": "Biscuit, a 1-year-old beagle. Application A-7781, approved. Pickup Oct 12. Vet check suggested within a week; Dr. Patel free Oct 15. Puppy class at Kits Dog School, Saturdays 9am from Oct 19.",
+      "state": "Approved; vet check not booked yet; puppy class booked."
+    }
+  },
+  {
+    "name": "Biscuit Recipe",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "buttermilk biscuits"
+    ],
+    "episodes": [
+      {
+        "user": "save that buttermilk biscuits recipe",
+        "result": "Saved a buttermilk biscuits recipe (bake 12 minutes at 220C) to the recipe collection."
+      }
+    ],
+    "card": {
+      "purpose": "Saving baking recipes.",
+      "people": "None.",
+      "details": "Buttermilk biscuits: bake 12 minutes at 220C.",
+      "state": "Saved."
+    }
+  },
+  {
+    "name": "nwHacks Signup",
+    "role": "target",
+    "false_friend": "Guitar Lessons",
+    "decay_slot": "late",
+    "key_terms": [
+      "nwHacks",
+      "Omar Siddiqui",
+      "Jess Tanaka"
+    ],
+    "episodes": [
+      {
+        "user": "sign me up for nwhacks with omar and jess",
+        "result": "Registered team 'Budget Buddies' for nwHacks (Oct 18-19) with Omar Siddiqui and Jess Tanaka. Project idea: a student budgeting app."
+      },
+      {
+        "user": "what's the team up to",
+        "result": "Omar Siddiqui set up the GitHub repo and Jess Tanaka is doing the UI. Submission deadline is Oct 19 at 9am."
+      }
+    ],
+    "card": {
+      "purpose": "Taking part in the nwHacks hackathon.",
+      "people": "Omar Siddiqui and Jess Tanaka, teammates.",
+      "details": "Team 'Budget Buddies', Oct 18-19. Building a student budgeting app. Omar set up the repo; Jess does the UI. Submission due Oct 19 at 9am.",
+      "state": "In progress."
+    }
+  },
+  {
+    "name": "Guitar Lessons",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Omar Haddad"
+    ],
+    "episodes": [
+      {
+        "user": "book guitar lessons with omar haddad",
+        "result": "Booked guitar lessons with Omar Haddad, Mondays at 7pm, $50 each."
+      }
+    ],
+    "card": {
+      "purpose": "Guitar lessons.",
+      "people": "Omar Haddad, guitar teacher.",
+      "details": "Mondays 7pm, $50 each.",
+      "state": "Booked."
+    }
+  },
+  {
+    "name": "Anniversary Dinner",
+    "role": "target",
+    "false_friend": "Anniversary Sale",
+    "decay_slot": "early",
+    "key_terms": [
+      "Seasons in the Park",
+      "Hannah Wu"
+    ],
+    "episodes": [
+      {
+        "user": "plan my parents' 30th anniversary dinner nov 8, about 40 people",
+        "result": "Booked Seasons in the Park for Nov 8 at 6pm, 40 guests, for the parents' 30th anniversary. $500 deposit paid. Event coordinator is Hannah Wu."
+      },
+      {
+        "user": "can we do a slideshow",
+        "result": "Hannah Wu confirmed the room has a projector for a slideshow. Menu choices are due Oct 25."
+      }
+    ],
+    "card": {
+      "purpose": "Organizing the user's parents' 30th anniversary dinner.",
+      "people": "Hannah Wu, event coordinator at Seasons in the Park.",
+      "details": "Nov 8, 6pm, 40 guests. $500 deposit paid. Projector available. Menu choices due Oct 25.",
+      "state": "Waiting on menu choices."
+    }
+  },
+  {
+    "name": "Anniversary Sale",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Sport Chek"
+    ],
+    "episodes": [
+      {
+        "user": "tell me when the sport chek anniversary sale starts",
+        "result": "Set an alert for the Sport Chek anniversary sale, starting Oct 16."
+      }
+    ],
+    "card": {
+      "purpose": "Watching for a store sale.",
+      "people": "None.",
+      "details": "Sport Chek anniversary sale starts Oct 16.",
+      "state": "Alert set."
+    }
+  },
+  {
+    "name": "Lab Application",
+    "role": "target",
+    "false_friend": "Choir Signup",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Elena Ruiz",
+      "HCI lab"
+    ],
+    "episodes": [
+      {
+        "user": "apply to prof elena ruiz's hci lab RA position",
+        "result": "Sent Prof. Elena Ruiz a CV and cover letter for the HCI lab research assistant position (10 hours/week)."
+      },
+      {
+        "user": "did the prof reply",
+        "result": "Prof. Elena Ruiz invited the user to interview on Oct 9 at 11am in ICICS 104 and asked for an unofficial transcript beforehand."
+      },
+      {
+        "user": "prof ruiz wants me at the hci reading group, sort out the details",
+        "result": "Prof. Elena Ruiz added the user to the HCI reading group. The user presents a paper on Nov 6 and must send the paper choice by Oct 30."
+      }
+    ],
+    "card": {
+      "purpose": "Applying for a research assistant job in an HCI lab.",
+      "people": "Prof. Elena Ruiz, runs the HCI lab.",
+      "details": "10 hours/week. Interview Oct 9, 11am, ICICS 104. She wants an unofficial transcript beforehand. Also presenting a paper at her reading group on Nov 6; paper choice due Oct 30.",
+      "state": "Interview booked; transcript not sent; paper not chosen."
+    }
+  },
+  {
+    "name": "Choir Signup",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Elena Brooks"
+    ],
+    "episodes": [
+      {
+        "user": "join elena brooks' choir",
+        "result": "Joined Elena Brooks' community choir. Rehearsals Thursdays at 7pm at St. Andrew's Hall."
+      }
+    ],
+    "card": {
+      "purpose": "Singing in a community choir.",
+      "people": "Elena Brooks, choir director.",
+      "details": "Thursdays 7pm, St. Andrew's Hall.",
+      "state": "Joined."
+    }
+  },
+  {
+    "name": "Roaming Charge",
+    "role": "target",
+    "false_friend": "Canucks Tickets",
+    "decay_slot": "middle",
+    "key_terms": [
+      "RG-10442",
+      "roaming charge",
+      "Infinite 50GB"
+    ],
+    "episodes": [
+      {
+        "user": "rogers charged me $64 for roaming i didn't use, fight it",
+        "result": "Opened a billing dispute with Rogers for a $64 roaming charge on the September bill. Ticket RG-10442."
+      },
+      {
+        "user": "any update from rogers",
+        "result": "Rogers says a supervisor will review ticket RG-10442 within 5 business days. They need the dates the user was in Canada."
+      },
+      {
+        "user": "while you're at it upgrade my rogers plan to the 50gb one",
+        "result": "Upgraded the Rogers plan to Infinite 50GB ($75/month) from Nov 1; it can be cancelled before then at no cost."
+      }
+    ],
+    "card": {
+      "purpose": "Disputing a mobile phone bill.",
+      "people": "None.",
+      "details": "Rogers, $64 roaming charge on the September bill. Ticket RG-10442. Rogers needs the dates the user was in Canada. Plan upgraded to Infinite 50GB ($75/month) from Nov 1.",
+      "state": "Dispute under supervisor review; plan upgrade pending."
+    }
+  },
+  {
+    "name": "Canucks Tickets",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Canucks"
+    ],
+    "episodes": [
+      {
+        "user": "get two canucks tickets for oct 18",
+        "result": "Bought two Canucks vs. Oilers tickets for Oct 18 at Rogers Arena, section 309."
+      }
+    ],
+    "card": {
+      "purpose": "Buying hockey tickets.",
+      "people": "None.",
+      "details": "Canucks vs. Oilers, Oct 18, section 309.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "Scholarship Essay",
+    "role": "target",
+    "false_friend": "Squash with James",
+    "decay_slot": "early",
+    "key_terms": [
+      "Wesbrook Scholarship",
+      "James Okoye"
+    ],
+    "episodes": [
+      {
+        "user": "apply for the wesbrook scholarship, essay due oct 15",
+        "result": "Started the Wesbrook Scholarship application (800-word essay due Oct 15) and asked Dr. James Okoye for a reference letter."
+      },
+      {
+        "user": "did okoye say yes",
+        "result": "Dr. James Okoye agreed to write the reference and needs the user's resume by Oct 5."
+      }
+    ],
+    "card": {
+      "purpose": "Applying for the Wesbrook Scholarship.",
+      "people": "Dr. James Okoye, writing the reference letter.",
+      "details": "800-word essay due Oct 15. Dr. Okoye needs the user's resume by Oct 5.",
+      "state": "Resume not sent yet."
+    }
+  },
+  {
+    "name": "Squash with James",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "James Liu"
+    ],
+    "episodes": [
+      {
+        "user": "book squash with james liu",
+        "result": "Booked a squash court with James Liu at the UBC Birdcoop, Sundays at 10am."
+      }
+    ],
+    "card": {
+      "purpose": "Weekly squash games.",
+      "people": "James Liu, friend.",
+      "details": "UBC Birdcoop, Sundays 10am.",
+      "state": "Booked."
+    }
+  },
+  {
+    "name": "Photo Gig",
+    "role": "target",
+    "false_friend": "Watch Party",
+    "decay_slot": "early",
+    "key_terms": [
+      "Tom Becker",
+      "Ana Silva",
+      "Second Beach",
+      "Joelle Tremblay"
+    ],
+    "episodes": [
+      {
+        "user": "i'm shooting engagement photos for tom and ana oct 12, sort out the details",
+        "result": "Confirmed the engagement shoot for Tom Becker and Ana Silva on Oct 12 at 4pm at Stanley Park's Second Beach. Fee $400, $100 deposit received."
+      },
+      {
+        "user": "anything from tom and ana",
+        "result": "Tom and Ana asked for a 30-minute extension to include Lost Lagoon. Agreed at +$75."
+      },
+      {
+        "user": "tom and ana's friend joelle wants headshots, set it up",
+        "result": "Booked a headshot session for Joelle Tremblay on Nov 2 at 11am at Jericho Beach; $180."
+      }
+    ],
+    "card": {
+      "purpose": "A paid engagement photo shoot the user is doing.",
+      "people": "Tom Becker and Ana Silva, the couple. Joelle Tremblay, their friend.",
+      "details": "Oct 12, 4pm, Second Beach in Stanley Park, plus Lost Lagoon. Fee $400 + $75 extension; $100 deposit received. Also a headshot session for Joelle, Nov 2 at 11am, Jericho Beach, $180.",
+      "state": "Both shoots confirmed."
+    }
+  },
+  {
+    "name": "Watch Party",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "Donnelly's"
+    ],
+    "episodes": [
+      {
+        "user": "plan a stanley cup final watch party",
+        "result": "Booked the back room at Donnelly's pub for the Stanley Cup final watch party."
+      }
+    ],
+    "card": {
+      "purpose": "A hockey watch party.",
+      "people": "None.",
+      "details": "Back room at Donnelly's pub.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "Sofa Tracking",
+    "role": "target",
+    "false_friend": "DoorDash Application",
+    "decay_slot": "late",
+    "key_terms": [
+      "IK-440912",
+      "IKEA"
+    ],
+    "episodes": [
+      {
+        "user": "track my ikea sofa delivery",
+        "result": "IKEA order IK-440912 (Soderhamn sofa) is scheduled for delivery Oct 6 between 8am and 12pm."
+      },
+      {
+        "user": "the sofa came without a leg",
+        "result": "IKEA opened a replacement part request for the missing sofa leg on order IK-440912. It arrives in 7-10 days."
+      }
+    ],
+    "card": {
+      "purpose": "Tracking an IKEA sofa delivery.",
+      "people": "None.",
+      "details": "Order IK-440912, Soderhamn sofa, delivered Oct 6. One leg missing; replacement part coming in 7-10 days.",
+      "state": "Waiting for the replacement leg."
+    }
+  },
+  {
+    "name": "DoorDash Application",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "DoorDash"
+    ],
+    "episodes": [
+      {
+        "user": "apply to deliver for doordash",
+        "result": "Submitted a DoorDash delivery rider application. Background check in progress."
+      }
+    ],
+    "card": {
+      "purpose": "Applying for a delivery job.",
+      "people": "None.",
+      "details": "DoorDash rider application; background check in progress.",
+      "state": "Pending."
+    }
+  },
+  {
+    "name": "Talk Submission",
+    "role": "target",
+    "false_friend": "Python Feeding",
+    "decay_slot": "middle",
+    "key_terms": [
+      "PyCon Canada"
+    ],
+    "episodes": [
+      {
+        "user": "submit my talk proposal to pycon canada about testing llm apps",
+        "result": "Submitted the talk 'Testing LLM Apps Without Losing Your Mind' to PyCon Canada. Decisions Oct 20."
+      },
+      {
+        "user": "did pycon get back",
+        "result": "PyCon Canada accepted the talk as a 30-minute slot on Nov 29 in Toronto. Speakers get a $500 travel stipend. The user must confirm by Oct 25."
+      }
+    ],
+    "card": {
+      "purpose": "Giving a talk at PyCon Canada.",
+      "people": "None.",
+      "details": "Talk 'Testing LLM Apps Without Losing Your Mind'. Accepted: 30 minutes, Nov 29, Toronto. $500 travel stipend. Confirm by Oct 25.",
+      "state": "Waiting for the user to confirm."
+    }
+  },
+  {
+    "name": "Python Feeding",
+    "role": "false_friend",
+    "decay_slot": "early",
+    "key_terms": [
+      "ball python"
+    ],
+    "episodes": [
+      {
+        "user": "what should i feed my ball python",
+        "result": "Set a feeding schedule for the ball python: one medium rat every 10 days."
+      }
+    ],
+    "card": {
+      "purpose": "Caring for a pet snake.",
+      "people": "None.",
+      "details": "Ball python: one medium rat every 10 days.",
+      "state": "Schedule set."
+    }
+  },
+  {
+    "name": "Pre-approval",
+    "role": "target",
+    "false_friend": "Farewell Card",
+    "decay_slot": "late",
+    "key_terms": [
+      "Nadia Rahman",
+      "RBC"
+    ],
+    "episodes": [
+      {
+        "user": "get pre-approved for a mortgage with rbc",
+        "result": "Started an RBC mortgage pre-approval with mortgage specialist Nadia Rahman. She needs 2 recent pay stubs and the latest Notice of Assessment."
+      },
+      {
+        "user": "did the pre-approval go through",
+        "result": "Nadia Rahman pre-approved the user for up to $620,000 at 4.9% fixed, valid for 120 days."
+      }
+    ],
+    "card": {
+      "purpose": "Getting pre-approved for a mortgage.",
+      "people": "Nadia Rahman, mortgage specialist at RBC.",
+      "details": "Pre-approved up to $620,000 at 4.9% fixed, valid 120 days.",
+      "state": "Pre-approved."
+    }
+  },
+  {
+    "name": "Farewell Card",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "Nadia Petrov"
+    ],
+    "episodes": [
+      {
+        "user": "set up a group farewell card for nadia petrov",
+        "result": "Created a group farewell card for coworker Nadia Petrov and sent the link to the team."
+      }
+    ],
+    "card": {
+      "purpose": "A farewell card for a coworker.",
+      "people": "Nadia Petrov, coworker who is leaving.",
+      "details": "Group card link sent to the team.",
+      "state": "Done."
+    }
+  },
+  {
+    "name": "Donation Appointment",
+    "role": "target",
+    "false_friend": "Marmalade Recipe",
+    "decay_slot": "early",
+    "key_terms": [
+      "Canadian Blood Services",
+      "Oak Street"
+    ],
+    "episodes": [
+      {
+        "user": "book me a blood donation appointment",
+        "result": "Booked a blood donation at Canadian Blood Services on Oak Street, Oct 9 at 1pm. Blood type O negative on file."
+      },
+      {
+        "user": "anything i need to do before",
+        "result": "Canadian Blood Services asks the user to eat a full meal beforehand and bring photo ID."
+      }
+    ],
+    "card": {
+      "purpose": "Donating blood.",
+      "people": "None.",
+      "details": "Canadian Blood Services, Oak Street, Oct 9 at 1pm. Blood type O negative. Eat a full meal first; bring photo ID.",
+      "state": "Booked."
+    }
+  },
+  {
+    "name": "Marmalade Recipe",
+    "role": "false_friend",
+    "decay_slot": "middle",
+    "key_terms": [
+      "marmalade"
+    ],
+    "episodes": [
+      {
+        "user": "save a blood orange marmalade recipe",
+        "result": "Saved a blood orange marmalade recipe (1kg oranges, 800g sugar, boil 40 minutes)."
+      }
+    ],
+    "card": {
+      "purpose": "Saving a jam recipe.",
+      "people": "None.",
+      "details": "Blood orange marmalade: 1kg oranges, 800g sugar, boil 40 minutes.",
+      "state": "Saved."
+    }
+  },
+  {
+    "name": "Dentist Appointment",
+    "role": "anchor",
+    "decay_slot": "early",
+    "key_terms": [
+      "Dr. Wong"
+    ],
+    "episodes": [
+      {
+        "user": "when's my dentist thing",
+        "result": "Cleaning with Dr. Wong is confirmed for Oct 2 at 3pm."
+      }
+    ],
+    "card": {
+      "purpose": "Dental cleaning.",
+      "people": "Dr. Wong, dentist.",
+      "details": "Oct 2 at 3pm.",
+      "state": "Confirmed."
+    }
+  },
+  {
+    "name": "Gym Cancellation",
+    "role": "anchor",
+    "decay_slot": "early",
+    "key_terms": [
+      "Fit4Less"
+    ],
+    "episodes": [
+      {
+        "user": "cancel my gym",
+        "result": "Sent the 30-day cancellation notice to Fit4Less. Last billing Oct 18."
+      }
+    ],
+    "card": {
+      "purpose": "Cancelling the gym membership.",
+      "people": "None.",
+      "details": "Fit4Less, 30-day notice sent. Last billing Oct 18.",
+      "state": "Notice sent."
+    }
+  },
+  {
+    "name": "Grocery Order",
+    "role": "anchor",
+    "decay_slot": "early",
+    "key_terms": [
+      "Save-On-Foods"
+    ],
+    "episodes": [
+      {
+        "user": "set up my weekly grocery order",
+        "result": "Weekly Save-On-Foods order set for Sundays 9-11am, with the usual list saved."
+      }
+    ],
+    "card": {
+      "purpose": "Weekly grocery order.",
+      "people": "None.",
+      "details": "Save-On-Foods, Sundays 9-11am. Usual list saved.",
+      "state": "Recurring."
+    }
+  }
+]
