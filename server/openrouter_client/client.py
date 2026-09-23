@@ -54,8 +54,16 @@ async def request_chat_completion(
     api_key: Optional[str] = None,
     tools: Optional[List[Dict[str, Any]]] = None,
     base_url: str = OpenRouterBaseURL,
+    reasoning: Optional[Dict[str, Any]] = None,
+    provider: Optional[Dict[str, Any]] = None,
 ) -> Dict[str, Any]:
-    """Request a chat completion and return the raw JSON payload."""
+    """Request a chat completion and return the raw JSON payload.
+
+    `reasoning` and `provider` are passed straight to OpenRouter. For example,
+    reasoning={"effort": "low"} limits how much a reasoning model thinks before answering,
+    and provider={"order": ["coreweave"]} picks which host serves the model.
+    Left out, OpenRouter's defaults apply.
+    """
 
     payload: Dict[str, object] = {
         "model": model,
@@ -64,6 +72,10 @@ async def request_chat_completion(
     }
     if tools:
         payload["tools"] = tools
+    if reasoning:
+        payload["reasoning"] = reasoning
+    if provider:
+        payload["provider"] = provider
 
     url = f"{base_url.rstrip('/')}/chat/completions"
 

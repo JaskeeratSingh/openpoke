@@ -29,6 +29,9 @@ DEFAULT_POLL_INTERVAL_SECONDS = 60.0
 DEFAULT_LOOKBACK_MINUTES = 10
 DEFAULT_MAX_RESULTS = 50
 DEFAULT_SEEN_LIMIT = 300
+# Gmail's search index can take several seconds to return a message that has already been
+# delivered, so a message may first appear in a poll that starts after its own timestamp.
+INDEX_LAG_GRACE_SECONDS = 30.0
 
 
 _DATA_DIR = Path(__file__).resolve().parent.parent.parent / "data"
@@ -95,6 +98,27 @@ class ImportantEmailWatcher:
         except asyncio.CancelledError:
             raise
 
+    # Oldest email timestamp still eligible to be surfaced on this poll
+    def _compute_cutoff(
+        self,
+        user_now: datetime,
+        previous_poll_timestamp: Optional[datetime],
+    ) -> datetime:
+        """Return the oldest timestamp still eligible for a proactive notification.
+
+        The window covers the entire gap since the previous poll. The run loop sleeps
+        *after* doing its work, so consecutive polls are always more than one interval
+        apart; anchoring the window to "now minus one interval" leaves a dead zone that
+        silently discards delivered mail. The grace period absorbs Gmail search-index lag
+        on top of that, since a message can first be returned by a poll that starts after
+        the message's own timestamp.
+        """
+
+        anchor = previous_poll_timestamp
+        if anchor is None:
+            anchor = user_now - timedelta(seconds=self._poll_interval)
+        return anchor - timedelta(seconds=INDEX_LAG_GRACE_SECONDS)
+
     # Poll Gmail once for new messages and classify them for importance
     def _complete_poll(self, user_now: datetime) -> None:
         self._last_poll_timestamp = user_now
@@ -105,10 +129,7 @@ class ImportantEmailWatcher:
         user_now = convert_to_user_timezone(poll_started_at)
         first_poll = not self._has_seeded_initial_snapshot
         previous_poll_timestamp = self._last_poll_timestamp
-        interval_cutoff = user_now - timedelta(seconds=self._poll_interval)
-        cutoff_time = interval_cutoff
-        if previous_poll_timestamp is not None and previous_poll_timestamp > interval_cutoff:
-            cutoff_time = previous_poll_timestamp
+        cutoff_time = self._compute_cutoff(user_now, previous_poll_timestamp)
 
         composio_user_id = get_active_gmail_user_id()
         if not composio_user_id:
